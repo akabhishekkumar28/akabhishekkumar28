@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akabhishekkumar28
-- 👀 I’m interested in front end developer
+- 👀 I’m intrested in front end developer
 - 🌱 I’m currently learning Angular8 and ReactJS
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on NodeJS
+
 
 
 <summary> 😇 <b> My Github Stats</b>: </summary>
